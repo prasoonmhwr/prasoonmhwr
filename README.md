@@ -11,7 +11,7 @@ Previously I have worked at [Vyapar](https://vyaparapp.in/) where I developed de
 - 📫 How to reach me: [LinkedIn](linkedin.com/in/prasoon-mahawar-873051119).
 - 😄 Pronouns: he/him
 
-## 🔧 Tech I Like To Use
+## 🖥 Tech I Like To Use
 
 - [JavaScript](#)
 - [React](https://reactjs.org/)
