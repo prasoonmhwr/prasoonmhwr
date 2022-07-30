@@ -8,7 +8,7 @@ Previously I have worked at [Vyapar](https://vyaparapp.in/) where I developed de
 - 👀 I’m interested in: the idea of robot uprising (Artificial Intelligence) 😜 intrigues me.
 - 🌱 I’m currently learning: How to develop web and mobile App using Angular as per my current job training.
 - 🤔 What I want to learn next: Improving my React game with [Epic React](https://epicreact.dev/).
-- 📫 How to reach me: [LinkedIn](linkedin.com/in/prasoon-mahawar-873051119).
+- 📫 How to reach me: [LinkedIn](linkedin.com/in/prasoonmahawar).
 - 😄 Pronouns: he/him
 
 ## 🖥 Tech I Like To Use
