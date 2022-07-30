@@ -1,7 +1,7 @@
 # Prasoon Mahawar
 
-👋 Hi, I’m Prasoon. I'm a software engineer at [Maximl](https://maximl.com/).
-Previously I have worked at [Vyapar](https://vyaparapp.in/) where I developed desktop app used by the small scale business owners and at [Oracle Solution Services India](https://www.oracle.com/in/index.html) where I developed B2B web and mobile apps.
+👋 Hi, I’m Prasoon. I'm a software engineer.
+Previously I have worked at at [Maximl](https://maximl.com/) where I worked on a product which empowers deskless workers of industries with digital solutions to enhance productivity, quality, and safety. [Vyapar](https://vyaparapp.in/) where I developed desktop app used by the small scale business owners and at [Oracle Solution Services India](https://www.oracle.com/in/index.html) where I developed B2B web and mobile apps.
 
 ## About Me
 
