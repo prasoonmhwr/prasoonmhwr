@@ -23,6 +23,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to NGINX](https://prasoon21.hashnode.dev/introduction-to-nginx)
 <!-- BLOG-POST-LIST:END -->
 
 
