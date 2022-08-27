@@ -26,10 +26,17 @@ I am a software engineer with 5 years of industry exprience while working with b
 
 
 
-# Blog posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Introduction to NGINX](https://prasoon21.hashnode.dev/introduction-to-nginx)
 <!-- BLOG-POST-LIST:END -->
+
+
+
+### Reach out to me at
+<a href="https://www.linkedin.com/in/prasoonmahawar/" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> Prasoon Mahawar
+</a>
 
 
 
