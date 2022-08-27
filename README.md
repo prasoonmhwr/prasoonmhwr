@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Prasoon.
+# Hi, I’m Prasoon 👋 
 
 ![Prasoon's Banner](https://github.com/prasoonmhwr/prasoonmhwr/blob/main/Prasoon_Mahawar.png?raw=true)
 
