@@ -31,7 +31,7 @@ I am a software engineer with 5 years of industry exprience while working with b
 - [Introduction to NGINX](https://prasoon21.hashnode.dev/introduction-to-nginx)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Reach out to me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/prasoonmahawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasoonmahawar" height="30" width="40" /></a>
 </p>
