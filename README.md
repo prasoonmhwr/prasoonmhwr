@@ -6,9 +6,9 @@
 I am a software engineer with 5 years of industry exprience while working with both MNC and startup companies like [Oracle](https://www.oracle.com/), [Vyapar](https://vyaparapp.in/) and [Maximl](https://maximl.com/) in tech like JavaScript, React, TypeScript, PostgresSQL and Python. I have recently started to explore open-source community , and soon you will see more contribution from myside to this community.
 
 
-<a href="https://github-readme-stats.vercel.app/api?username=prasoonmhwr&show_icons=true&theme=codeSTACKr&count_private=true">
+<!-- <a href="https://github-readme-stats.vercel.app/api?username=prasoonmhwr&show_icons=true&theme=codeSTACKr&count_private=true">
   <img align="center"  src="https://github-readme-stats.vercel.app/api?username=prasoonmhwr&show_icons=true&theme=codeSTACKr&count_private=true" />
-</a>
+</a> -->
 
 
 <!---
