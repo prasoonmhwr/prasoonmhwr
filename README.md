@@ -1,4 +1,5 @@
-# Hi, I’m Prasoon 👋 
+# Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I’m Prasoon. 
+
 
 ![Prasoon's Banner](https://github.com/prasoonmhwr/prasoonmhwr/blob/main/Prasoon_Mahawar.png?raw=true)
 
@@ -35,6 +36,7 @@ I am a software engineer with 5 years of industry exprience while working with b
 <p align="left">
 <a href="https://linkedin.com/in/prasoonmahawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasoonmahawar" height="30" width="40" /></a>
 </p>
+
 
 
 
