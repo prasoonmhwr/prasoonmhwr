@@ -1,4 +1,4 @@
-# Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I’m Prasoon. 
+# Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I’m Prasoon
 
 
 ![Prasoon's Banner](https://github.com/prasoonmhwr/prasoonmhwr/blob/main/Prasoon_Mahawar.png?raw=true)
