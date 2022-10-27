@@ -50,10 +50,10 @@ I am a software engineer with 5 years of industry exprience while working with b
 [![@prasoonmhwr21's Holopin board](https://holopin.io/api/user/board?user=prasoonmhwr21)](https://holopin.io/@prasoonmhwr21)
 
 
-<br>
+<!--- <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=prasoonmhwr&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
-
+--->
 
 
 
