@@ -8,19 +8,7 @@
 
 I am a software engineer with 5 years of industry exprience while working with both MNC and startup companies like [Oracle](https://www.oracle.com/), [Vyapar](https://vyaparapp.in/) and [Maximl](https://maximl.com/) in tech like JavaScript, React, TypeScript, PostgresSQL and Python. I have recently started to explore open-source community , and soon you will see more contribution from myside to this community.
 
-<!---
-<p align=center>
-  <div align=center>
-   <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasoonmhwr&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&heme=codeSTACKr&count_private=true" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=450 src="https://github-readme-stats.vercel.app/api?username=prasoonmhwr&show_icons=true&theme=codeSTACKr&count_private=true" />
-    </a>
-  </div>
-  
-</p>
---->
+
 
 <a href="https://github-readme-stats.vercel.app/api?username=prasoonmhwr&show_icons=true&theme=codeSTACKr&count_private=true">
   <img align="center"  src="https://github-readme-stats.vercel.app/api?username=prasoonmhwr&show_icons=true&theme=codeSTACKr&count_private=true" />
