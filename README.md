@@ -30,7 +30,7 @@ I am a software engineer with 5 years of industry exprience while working with b
  -->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,python,django,postgresql,typescript,git,html,css,nginx,typescript" />
+    <img src="https://skillicons.dev/icons?i=js,react,python,postgresql,typescript,git,html,css" />
   </a>
 </p>
 
