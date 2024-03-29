@@ -6,7 +6,11 @@
 
 
 
-I am a software engineer with 5 years of industry exprience while working with both MNC and startup companies like [Oracle](https://www.oracle.com/), [Vyapar](https://vyaparapp.in/) and [Maximl](https://maximl.com/) in tech like JavaScript, React, TypeScript, PostgresSQL and Python. I have recently started to explore open-source community , and soon you will see more contribution from myside to this community.
+👋 Hello there! I'm Prasoon, a seasoned software engineer with a passion for crafting robust solutions and embracing emerging technologies. Over the past 6 years, I've had the privilege of honing my skills at renowned companies such as Oracle, Vyapar, and Maximl, where I've delved into a diverse array of technologies including JavaScript, React, TypeScript, PostgresSQL, and Python.
+
+My journey in the tech industry has been incredibly rewarding, allowing me to navigate the dynamic landscapes of both multinational corporations and innovative startups. Recently, I've embarked on a new adventure by immersing myself in the vibrant world of open-source software. I'm excited to contribute my expertise and collaborate with fellow developers to create impactful solutions.
+
+Stay tuned for updates on my latest projects and contributions—I can't wait to share my journey with you!
 
 
 <!---
