@@ -36,10 +36,10 @@ Stay tuned for updates on my latest projects and contributions—I can't wait to
   </a>
 </p>
 
-<h3 align="left">Reach out to me:</h3>
+<!-- <h3 align="left">Reach out to me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/prasoonmahawar" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-</p>
+</p> -->
 
 <!--- ### Holopin
 
