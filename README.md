@@ -6,22 +6,60 @@
 
 
 
-👋 Hello there! I'm Prasoon, a seasoned software engineer with a passion for crafting robust solutions and embracing emerging technologies. Over the past 6 years, I've had the privilege of honing my skills at renowned companies such as Oracle, Vyapar, and Maximl, where I've delved into a diverse array of technologies including JavaScript, React, TypeScript, PostgresSQL, and Python.
-
-Stay tuned for updates on my latest projects and contributions—I can't wait to share my journey with you!
+# 👋 Hello there! I'm Prasoon
 
 
-<!---
-<a href="https://github-readme-stats.vercel.app/api?username=prasoonmhwr&show_icons=true&theme=codeSTACKr&count_private=true">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=prasoonmhwr&show_icons=true&theme=codeSTACKr&count_private=true" />
-</a> --->
+### AI Researcher · Software Engineer · Builder
 
+I’m a software engineer with **5+ years of experience** building products across enterprise and startups, now focused on **AI research and applied machine learning**.
 
-<!---
-<a style=" marginLeft : '20px !important'" href="https://github-readme-stats.vercel.app/api/top-langs/?username=prasoonmhwr&layout=compact">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasoonmhwr&layout=compact&theme=blue-green" />
-</a>
---->
+I like understanding how things work under the hood — from implementing research papers from scratch to turning ideas into production-ready software.
+
+---
+
+### What I do
+
+**Research**  
+Deep Learning · LLMs · AI Systems · PyTorch · Paper Implementations
+
+**Engineering**  
+TypeScript · React · Python · Node.js · PostgreSQL · MLOps
+
+**Building**  
+AI products · Developer tools · SaaS · Experiments
+
+---
+
+### Experience
+
+**Oracle** · **Maximl Labs** · **Agilite** · **ASM Enterprise Solutions**
+
+Worked across enterprise software, startups, and product engineering — from full-stack development to exploring applied AI.
+
+---
+
+### Currently building & exploring
+
+🔬 **AI Research** — implementing papers and exploring modern ML systems  
+⚙️ **AI Engineering** — building practical AI-powered applications  
+🧩 **Open Source** — sharing implementations, experiments, and tools  
+🎥 **Learning in public** — writing and creating content around AI
+
+---
+
+### A few things you'll find here
+
+`research implementations` · `AI experiments` · `full-stack projects` · `developer tools` · `SaaS`
+
+---
+
+### Find me
+
+[🌐 Website](https://prasoon-mahawar.dev) · [💼 LinkedIn](https://www.linkedin.com/in/prasoonmahawar/) · [𝕏 Twitter](https://twitter.com/prasoonmahawar) · [▶️ YouTube](https://www.youtube.com/@prasoonmahawarYT/)
+
+<br>
+
+> *Build it. Understand it. Share it.*
 
 
 
@@ -46,10 +84,10 @@ Stay tuned for updates on my latest projects and contributions—I can't wait to
 [![@prasoonmhwr21's Holopin board](https://holopin.io/api/user/board?user=prasoonmhwr21)](https://holopin.io/@prasoonmhwr21)
 --->
 
-<!--- <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=prasoonmhwr&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
---->
+  
+
+
 
 
 
