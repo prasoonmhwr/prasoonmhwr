@@ -16,8 +16,10 @@ I’m a software engineer with **5+ years of experience** building products acro
 I like understanding how things work under the hood — from implementing research papers from scratch to turning ideas into production-ready software.
 
 ---
+<img width="900" height="480" alt="profile" src="https://github.com/user-attachments/assets/b18452af-4547-4475-96ca-71928f18c0dd" />
 
-### What I do
+
+<!---### What I do
 
 **Research**  
 Deep Learning · LLMs · AI Systems · PyTorch · Paper Implementations
@@ -30,11 +32,11 @@ AI products · Developer tools · SaaS · Experiments
 
 ---
 
-### Experience
+ ### Experience
 
 **Oracle** · **Maximl Labs** · **Agilite** · **ASM Enterprise Solutions**
 
-Worked across enterprise software, startups, and product engineering — from full-stack development to exploring applied AI.
+Worked across enterprise software, startups, and product engineering — from full-stack development to exploring applied AI. --->
 
 ---
 
